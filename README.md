@@ -6,8 +6,8 @@
 
 ![](ala-andriuta-img/main-page.png)
 
-Subscriber page connected to MongoDB Atlas + ultimatley leading to the Mailchimp API:
+#### Subscriber page connected to MongoDB Atlas + ultimatley leading to the Mailchimp API:
 ![](ala-andriuta-img/subscribe.png)
 
-Displaying one's professional services in a fun, tiered approach that you would normally use for tiered SaaS pricing:
+#### Displaying one's professional services in a fun, tiered approach that's traditionally used to reference tiered SaaS pricing:
 ![](ala-andriuta-img/pricing-tiers.png)
